@@ -32,7 +32,7 @@ The project is designed to perform object detection on both images and videos. I
    git clone https://github.com/yourusername/animal-detection.git
 ## Results
 - The following images demonstrate the results of animal classification and identification using the YOLOv8n model:
-  ![cat](https://github.com/user-attachments/assets/d2526c59-a44b-4f84-8e21-e876e4e42228)
+![cat](https://github.com/user-attachments/assets/d2526c59-a44b-4f84-8e21-e876e4e42228)
 ![cat](https://github.com/user-attachments/assets/ced3909d-c2b7-44a0-9df2-a510734c8c27)
 ![dog](https://github.com/user-attachments/assets/1b7386a0-9105-4d36-a237-0c8b3a6ad356)
 ![dog](https://github.com/user-attachments/assets/40bac612-4d53-4a71-95c1-000fa56c40cb)
